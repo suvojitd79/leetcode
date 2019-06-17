@@ -1,0 +1,17 @@
+//problem title
+import java.util.*;
+
+public class xyz{
+
+    public static void main(String[] args) {
+
+    }
+
+}
+
+package main
+
+func main() {}
+
+
+
